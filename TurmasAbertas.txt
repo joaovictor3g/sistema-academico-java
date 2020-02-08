@@ -1,0 +1,13 @@
+Ursulino;886;289A;Sistemas de Informação;UFC - Campus Quixadá;POO;4;08h-10h;Segunda;
+289;Joao Victor Dias;115;POO;Ursulino;08h-10h;Segunda;
+289;Victor Dias;338;POO;Ursulino;08h-10h;Segunda;
+289;Felipe;470;POO;Ursulino;08h-10h;Segunda;
+289;Victor Dias ;192;POO;Ursulino;08h-10h;Segunda;
+289;Victor Dias;627;POO;Ursulino;08h-10h;Segunda;
+Ursulino;886;798A;Sistemas de Informação;UFC - Campus Quixadá;POO;4;08h-10h;Segunda;
+798;Joao Victor Dias;115;POO;Ursulino;08h-10h;Segunda;
+798;Victor Dias;338;POO;Ursulino;08h-10h;Segunda;
+798;Felipe;470;POO;Ursulino;08h-10h;Segunda;
+798;Victor Dias ;192;POO;Ursulino;08h-10h;Segunda;
+798;Victor Dias;627;POO;Ursulino;08h-10h;Segunda;
+798;Joao;289;POO;Ursulino;08h-10h;Segunda;

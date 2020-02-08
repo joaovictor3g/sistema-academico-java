@@ -1,0 +1,18 @@
+Joao Victor Dias;764.764.764-74;19;115;Sistemas de Informação;UFC - Campus Quixadá
+Victor Dias;768.757.645-34;19;338;Sistemas de Informação;UFC - Campus Quixadá
+Felipe;424.324.324-32;20;470;Sistemas de Informação;UFC - Campus Quixadá
+Italo Leite;654.654.656-54;19;876;Engenharia de Computação;UFC - Campus Quixadá
+Victor Dias ;857.646.465-45;19;192;Sistemas de Informação;UFC - Campus Quixadá
+Victor Dias;654.654.654-66;19;627;Sistemas de Informação;UFC - Campus Quixadá
+Pedro;345.245.252-45;19;534;Ciência da Computação;UFC - Campus Quixadá
+carlos daniel ferreira miranda;979.470.408-42;19;428;Ciência da Computação;UFC - Campus Quixadá
+Eliabe;098.098.098-95;19;170;Ciência da Computação;UFC - Campus Quixadá
+Santos;080.980.980-98;19;876;Ciência da Computação;UFC - Campus Quixadá
+dias;987.039.840-93;19;184;Ciência da Computação;UFC - Campus Quixadá
+barrisi;876.987.998-67;19;601;Ciência da Computação;UFC - Campus Quixadá
+Higor';710.340.830-95;19;227;Zootecnia;UFC - Campus Sobral
+Messias;123.243.243-24;19;870;Zootecnia;UFC - Campus Pici
+Joao Victor;878.687.687-68;19;597;Redes de Computadores;UFC - Campus Pici
+Pedro Spinosa;980.979.879-87;19;801;Ciência da Computação;UFC - Campus Quixadá
+Joao;979.879.869-69;19;289;Sistemas de Informação;UFC - Campus Quixadá
+Leticia Dias;908.098.080-98;19;806;Zootecnia;UFC - Campus Quixadá

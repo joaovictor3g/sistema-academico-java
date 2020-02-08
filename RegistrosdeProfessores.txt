@@ -1,0 +1,8 @@
+Joao Victor Barroso;764.654.654-65;19;311;joao;1234;UFC - Campus Quixadá;Pre Calculo
+Ursulino;099.999.009-09;23;886;urso;1234;UFC - Campus Quixadá;POO
+Carlos;765.765.800-00;29;668;carlos;1234;UFC - Campus Quixadá;Lógica para Computação
+Daniel;090.809.789-79;29;770;daniel;1234;UFC - Campus Quixadá;Linguagens de Programação
+Ubita;098.098.090-99;20;781;bibita;1234;UFC - Campus Quixadá;Pesca Alternativa
+Italo Meireles;698.709.097-09;28;807;italo;1234;UFC - Campus Quixadá;Circuitos Digitais
+Douglas;090.809.809-80;19;572;douglas;1234;UFC - Campus Quixadá;Lógica para Computação
+Paulo Henrique;876.875.875-86;28;124;paulo;1234;UFC - Campus Quixadá;POO
